@@ -1,0 +1,20 @@
+body {
+  color: white;
+  background-color: #212326 !important;
+}
+
+table.striped > tbody > tr:nth-child(odd) {
+  background-color: #2e3136;
+}
+
+.blog_articles {
+  color: white;
+  background-color: #2e3136;
+}
+
+.comments,
+.tabs .tab a:hover,
+.tabs .tab a.active,
+.tabs .tab a {
+  background-color: #212326 !important;
+}
